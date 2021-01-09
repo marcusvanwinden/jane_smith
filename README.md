@@ -1,6 +1,6 @@
 <h1>Jane Smith</h1>
 
-<p><a href="https://marcusvanwinden.github.io/jane_smith">View project</a></p>
+<p><a href="https://marcusvanwinden.github.io/jane_smith/">View project</a></p>
 
 <p>Jane Smith is a fictional front-end developer. I built a responsive portfolio website to demonstrate her skills and show the projects she has done 💼</p>
 
